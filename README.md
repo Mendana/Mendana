@@ -54,10 +54,7 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 ---
 Prueba:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=DiegoDiazMendana&color=blue&style=flat-square)
 
 
 ¡Gracias por visitar mi perfil! Si quieres colaborar o tienes alguna sugerencia, no dudes en escribirme un mensaje. 😊

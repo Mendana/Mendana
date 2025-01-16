@@ -68,7 +68,7 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendana&layout=compact&theme=radical)
 
-![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=Mendana&theme=react-dark)
+<!-- ![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=Mendana&theme=react-dark) -->
 
 ---
 

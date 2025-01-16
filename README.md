@@ -64,16 +64,16 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 ---
 
 ## 📊 **Estadísticas**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoDiazMendana&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mendana&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDiazMendana&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendana&layout=compact&theme=radical)
 
-![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=DiegoDiazMendana&theme=react-dark)
+![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=Mendana&theme=react-dark)
 
 ---
 
 ## 📈 **Visitas**
-![Visitas al perfil](https://komarev.com/ghpvc/?username=DiegoDiazMendana&color=blue&style=flat-square)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Mendana&color=blue&style=flat-square)
 
 ---
 

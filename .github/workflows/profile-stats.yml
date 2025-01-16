@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *' # Se ejecuta diariamente a medianoche
   workflow_dispatch: # Permite ejecutarlo manualmente
 
+permissions:
+  contents: write
+  workflows: read
+
 jobs:
   update-readme:
     name: Update README with development stats
@@ -15,7 +19,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Profile Stats
-      uses: teoxoy/profile-readme-stats@v1
+      uses: teoxoy/profile-readme-stats@v1.1.0
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 

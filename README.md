@@ -50,7 +50,8 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mendana&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mendana&show_icons=true&theme=radical)![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendana&layout=compact&theme=radical)
+
 
 
 ¡Gracias por visitar mi perfil! Si quieres colaborar o tienes alguna sugerencia, no dudes en escribirme un mensaje. 😊

@@ -3,6 +3,19 @@
 🎓 **Estudiante de Doble Grado en Ingeniería Informática de Software y Matemáticas.**  
 Soy una persona entusiasta del aprendizaje, especialmente en programación, desarrollo web y análisis de datos. Me interesa seguir creciendo en proyectos que combinen tecnología y matemáticas.
 
+☕ **Fun fact**: Soy un desarrollador que toma café mientras programa.
+
+---
+
+## 📑 **Tabla de Contenidos**
+1. [Sobre mí](#-sobre-mí)
+2. [Habilidades Técnicas](#️-habilidades-técnicas)
+3. [Proyectos](#-proyectos)
+4. [Formación](#-formación)
+5. [Qué busco](#-qué-busco)
+6. [Estadísticas](#-estadísticas)
+7. [Contacto](#gracias-por-visitar-mi-perfil)
+
 ---
 
 ## 🌟 **Sobre mí**
@@ -11,7 +24,7 @@ Soy una persona entusiasta del aprendizaje, especialmente en programación, desa
 
 ---
 
-## 🛠️ **Habilidades Técnicas**Va
+## 🛠️ **Habilidades Técnicas**
 ### **Lenguajes y Frameworks**
 - **Python**: Experiencia con bibliotecas como Pandas, Flask y FastAPI.
 - **HTML y CSS**: Maquetación responsive y diseño básico.
@@ -50,11 +63,18 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mendana&show_icons=true&theme=radical)![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendana&layout=compact&theme=radical)
+## 📊 **Estadísticas**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoDiazMendana&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDiazMendana&layout=compact&theme=radical)
+
+![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=DiegoDiazMendana&theme=react-dark)
 
 ---
-Prueba:
+
+## 📈 **Visitas**
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=DiegoDiazMendana&color=blue&style=flat-square)
 
+---
 
 ¡Gracias por visitar mi perfil! Si quieres colaborar o tienes alguna sugerencia, no dudes en escribirme un mensaje. 😊

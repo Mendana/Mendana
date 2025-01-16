@@ -70,9 +70,6 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 <!-- ![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=Mendana&theme=react-dark) -->
 
-## 📊 Development Stats
-<!--START_SECTION:stats-->
-<!--END_SECTION:stats-->
 
 
 ---

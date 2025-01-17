@@ -68,8 +68,7 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 <!-- ![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=Mendana&theme=react-dark) -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mendana)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Mendana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendana)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

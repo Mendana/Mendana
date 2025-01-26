@@ -1,4 +1,4 @@
-# ¡Hola! Soy Mendaña 👋
+# ¡Hola! Soy Diego Díaz Mendaña 👋
 
 🎓 **Estudiante de Doble Grado en Ingeniería Informática de Software y Matemáticas.**  
 Soy una persona entusiasta del aprendizaje, especialmente en programación, desarrollo web y análisis de datos. Me interesa seguir creciendo en proyectos que combinen tecnología y matemáticas.

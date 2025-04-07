@@ -1,24 +1,19 @@
 # ¡Hola! Soy Diego Díaz Mendaña 👋
 
 🎓 **Estudiante de Doble Grado en Ingeniería Informática de Software y Matemáticas.**  
-Soy una persona entusiasta del aprendizaje, especialmente en programación, desarrollo web y análisis de datos. Me interesa seguir creciendo en proyectos que combinen tecnología y matemáticas.
+Soy un chico curioso y entusiasta de la programación. Me gusta bastante la programación y descubrir nuevas herramientas y conceptos. Actualmente estoy estudiando nuevas herramientas de forma autodidacta además de lo que aprendo en la universidad.
+
+Estoy buscando nuevos desafíos y conceptos que aprender y desarrollar que me gusten y me motiven a estudiar.
 
 ---
 
 ## 📑 **Tabla de Contenidos**
-1. [Sobre mí](#-sobre-mí)
-2. [Habilidades Técnicas](#️-habilidades-técnicas)
-3. [Proyectos](#-proyectos)
-4. [Formación](#-formación)
-5. [Qué busco](#-qué-busco)
-6. [Estadísticas](#-estadísticas)
-7. [Contacto](#gracias-por-visitar-mi-perfil)
-
----
-
-## 🌟 **Sobre mí**
-- 💻 Disfruto explorando herramientas como Python, Django y FastAPI para desarrollar soluciones prácticas.
-- 🎯 Me interesan áreas como la ciencia de datos, la inteligencia artificial y el desarrollo web.
+1. [Habilidades Técnicas](#️-habilidades-técnicas)
+2. [Proyectos](#-proyectos)
+3. [Formación](#-formación)
+4. [Qué busco](#-qué-busco)
+5. [Estadísticas](#-estadísticas)
+6. [Contacto](#gracias-por-visitar-mi-perfil)
 
 ---
 
@@ -28,13 +23,11 @@ Soy una persona entusiasta del aprendizaje, especialmente en programación, desa
 - **HTML y CSS**: Maquetación responsive y diseño básico.
 - **JavaScript**: Conceptos básicos para desarrollo web.
 - **Django**: Iniciándome en el desarrollo de aplicaciones web dinámicas.
+- **React**: Desarrollo de Front-End modular y eficiente
 
 ### **Bases de Datos**
 - Conocimientos básicos en diseño y manejo de bases de datos.
 
-### **Herramientas**
-- Jupyter Notebooks: Análisis de datos y prototipado.
-- Git y GitHub: Control de versiones y colaboración.
 
 ---
 

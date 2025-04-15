@@ -19,38 +19,51 @@ Estoy buscando nuevos desafíos y conceptos que aprender y desarrollar que me gu
 
 ## 🛠️ **Habilidades Técnicas**
 ### **Lenguajes y Frameworks**
-- **Python**: Experiencia con bibliotecas como Pandas, Flask y FastAPI.
+- **Python**: Empleado para múltiples fines y con diversas bibliotecas, entre ellas:
+    - Django
+    - Flask
+    - Selenium
+    - Playwright
+    - Pandas
+    - Numpy
+    - Seaborn
+    - Matplotlib
+    - ...
 - **HTML y CSS**: Maquetación responsive y diseño básico.
-- **JavaScript**: Conceptos básicos para desarrollo web.
-- **Django**: Iniciándome en el desarrollo de aplicaciones web dinámicas.
-- **React**: Desarrollo de Front-End modular y eficiente
-
-### **Bases de Datos**
-- Conocimientos básicos en diseño y manejo de bases de datos.
-
+- **JavaScript**: Para desarrollo web.
+- **React**: Desarrollo de Front-End modular y eficiente.
+- **Tailwind**: Manejo de estilos desde los .jsx
+- **SQL**: Uso básico para consultas, procedimientos y triggers.
+- ...
 
 ---
 
 ## 🚀 **Proyectos**
-### **1. CRUD en Python**
-- Desarrollo de un sistema sencillo de gestión de tareas utilizando Python y FastAPI.
 
-### **2. Maquetación Web Responsive**
-- Creación de diseños adaptables utilizando CSS Grid Layout y Mobile First.
+### Proyectos personales avanzados
+1. **FrontEnd página para visualización de horarios**: Desarrollada con React y Tailwind, hosteada en Firebase. Se puede visitar en el enlace: [Horarios PCEO](https://horariospceo.web.app/)
 
-### **3. Scripts de Análisis de Datos**
-- Exploración y manipulación de datos con Python y Pandas.
+2. **FrontEnd Dashboard administración de horarios y clases**: Desarrollado con React (empleando React Router) y Tailwind, hosteada en Firebase. Se puede visitar en: [PCEO Dashboard](https://pceo-dashboard.web.app/)
+
+
+### Proyectos personales básicos:
+1. **CRUD en Python**: Desarrollo de un sistema sencillo de gestión de tareas utilizando Python y FastAPI.
+
+2. **Maquetación Web Responsive**: Creación de diseños adaptables utilizando CSS Grid Layout y Mobile First.
+
+3. **Scripts de Análisis de Datos**: Exploración y manipulación de datos con Python y Pandas.
 
 ---
 
 ## 📚 **Formación**
-- **Matemáticas y Estadística**: Introducción a conceptos aplicados a ciencia de datos e inteligencia artificial.
-- **Programación**: Cursos de Python, FastAPI, Django, HTML y CSS.
+- Bachillerato cienctífico con honores
+- Cursos de programación en Platzi
+- Doble grado en Ingeniería Informática de Software y Matemáticas (aún en curso).
 
 ---
 
 ## 🌱 **Qué busco**
-Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de datos. Me encantaría participar en proyectos colaborativos o contribuir a iniciativas de código abierto para seguir desarrollando mis habilidades.
+Actualmente estoy enfocado en el doble grado aunque lo que más me motiva y me entretiene es el desarrollo web y análisis de datos e IA. Me gusta seguir aprendiendo para poder colaborar en distintos proyectos de código abierto y mejorar mis habilidades
 
 ---
 
@@ -71,4 +84,4 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 
 ---
 
-¡Gracias por visitar mi perfil! Si quieres colaborar o tienes alguna sugerencia, no dudes en escribirme un mensaje. 😊
+¡Gracias por visitar mi perfil!

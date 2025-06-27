@@ -47,6 +47,8 @@ Si quieres saber más de mi, este es [mi porfolio web](https://diego-diaz-mendan
 
 2. **FrontEnd Dashboard administración de horarios y clases**: Desarrollado con React (empleando React Router) y Tailwind, hosteada en Firebase. Se puede visitar en: [PCEO Dashboard](https://pceo-dashboard.web.app/)
 
+3. **Porfolio Web**: Desarrollado con React y Tailwind, hosteado en Firebase. Se puede visitar en: [Mi Porfolio](https://diego-diaz-mendana.web.app/)
+
 
 ### Proyectos personales básicos:
 1. **CRUD en Python**: Desarrollo de un sistema sencillo de gestión de tareas utilizando Python y FastAPI.

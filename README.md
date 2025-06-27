@@ -5,6 +5,8 @@ Soy un chico curioso y entusiasta de la programación. Me gusta bastante la prog
 
 Estoy buscando nuevos desafíos y conceptos que aprender y desarrollar que me gusten y me motiven a estudiar.
 
+Si quieres saber más de mi, este es [mi porfolio web](https://diego-diaz-mendana.web.app/)
+
 ---
 
 ## 📑 **Tabla de Contenidos**

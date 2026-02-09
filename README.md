@@ -21,22 +21,13 @@ Si quieres saber más de mi, este es [mi porfolio web](https://diego-diaz-mendan
 
 ## 🛠️ **Habilidades Técnicas**
 ### **Lenguajes y Frameworks**
-- **Python**: Empleado para múltiples fines y con diversas bibliotecas, entre ellas:
-    - Django
-    - Flask
-    - Selenium
-    - Playwright
-    - Pandas
-    - Numpy
-    - Seaborn
-    - Matplotlib
-    - ...
+- **Python**: Empleado para Data Science, Backend y desarrollo de IA e integraciones
 - **HTML y CSS**: Maquetación responsive y diseño básico.
-- **JavaScript**: Para desarrollo web.
-- **React**: Desarrollo de Front-End modular y eficiente.
-- **Tailwind**: Manejo de estilos desde los .jsx
+- **JavaScript/TypeScript**: Para desarrollo web fullstack.
+- **Frontend Frameworks**: Múltiples frameworks de desarrollo web, entre ellos, React, Astro, Next, Tailwinds, etc.
 - **SQL**: Uso básico para consultas, procedimientos y triggers.
-- ...
+- **Java**: Desarrollo backend entre otras
+- **Otros**: Manejo básico de otros lenguajes/frameworks como C#, C++, Rust, Nest.js, etc.
 
 ---
 
@@ -48,14 +39,6 @@ Si quieres saber más de mi, este es [mi porfolio web](https://diego-diaz-mendan
 2. **FrontEnd Dashboard administración de horarios y clases**: Desarrollado con React (empleando React Router) y Tailwind, hosteada en Firebase. Se puede visitar en: [PCEO Dashboard](https://pceo-dashboard.web.app/)
 
 3. **Porfolio Web**: Desarrollado con React y Tailwind, hosteado en Firebase. Se puede visitar en: [Mi Porfolio](https://diego-diaz-mendana.web.app/)
-
-
-### Proyectos personales básicos:
-1. **CRUD en Python**: Desarrollo de un sistema sencillo de gestión de tareas utilizando Python y FastAPI.
-
-2. **Maquetación Web Responsive**: Creación de diseños adaptables utilizando CSS Grid Layout y Mobile First.
-
-3. **Scripts de Análisis de Datos**: Exploración y manipulación de datos con Python y Pandas.
 
 ---
 

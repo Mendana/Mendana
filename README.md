@@ -22,7 +22,6 @@ ops      = ["docker", "gitlab-ci", "caddy"]
 [currently]
 building = "HorariosHub - Fullstack en rust/axum + nextjs"
 learning = "RAG self-hosted"
----
 ```
 ```bash
 $ ls -la projects/

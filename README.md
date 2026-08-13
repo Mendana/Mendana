@@ -1,74 +1,35 @@
-# ¡Hola! Soy Diego Díaz Mendaña 👋
-
-🎓 **Estudiante de Doble Grado en Ingeniería Informática de Software y Matemáticas.**  
-Soy un chico curioso y entusiasta de la programación. Me gusta bastante la programación y descubrir nuevas herramientas y conceptos. Actualmente estoy estudiando nuevas herramientas de forma autodidacta además de lo que aprendo en la universidad.
-
-Estoy buscando nuevos desafíos y conceptos que aprender y desarrollar que me gusten y me motiven a estudiar.
-
-Si quieres saber más de mi, este es [mi porfolio web](https://diego-diaz-mendana.web.app/)
-
+```bash
+$ whoami
+diego@mendana
+```
+```
 ---
-
-## 📑 **Tabla de Contenidos**
-1. [Habilidades Técnicas](#️-habilidades-técnicas)
-2. [Proyectos](#-proyectos)
-3. [Formación](#-formación)
-4. [Qué busco](#-qué-busco)
-5. [Estadísticas](#-estadísticas)
-6. [Contacto](#gracias-por-visitar-mi-perfil)
-
+Location  Oviedo, Spain
+Degree    Ing. Informática + Matemáticas (PCEO)
+Role      ASAC/Cloud4B -- Fullstack & IA Infra
+Also      Working by myself
 ---
+```
+```toml
+# stack.toml
 
-## 🛠️ **Habilidades Técnicas**
-### **Lenguajes y Frameworks**
-- **Python**: Empleado para Data Science, Backend y desarrollo de IA e integraciones
-- **HTML y CSS**: Maquetación responsive y diseño básico.
-- **JavaScript/TypeScript**: Para desarrollo web fullstack.
-- **Frontend Frameworks**: Múltiples frameworks de desarrollo web, entre ellos, React, Astro, Next, Tailwinds, etc.
-- **SQL**: Uso básico para consultas, procedimientos y triggers.
-- **Java**: Desarrollo backend entre otras
-- **Otros**: Manejo básico de otros lenguajes/frameworks como C#, C++, Rust, Nest.js, etc.
+[stack]
+backend  = ["rust", "java/spring", "python/fastapi"]
+frontend = ["typescript", "react", "next.js", "astro"]
+data     = ["postgresql", "sqlite"]
+ops      = ["docker", "gitlab-ci", "caddy"]
 
+[currently]
+building = "HorariosHub - Fullstack en rust/axum + nextjs"
+learning = "RAG self-hosted"
 ---
-
-## 🚀 **Proyectos**
-
-### Proyectos personales avanzados
-1. **FrontEnd página para visualización de horarios**: Desarrollada con React y Tailwind, hosteada en Firebase. Se puede visitar en el enlace: [Horarios PCEO](https://horariospceo.web.app/)
-
-2. **FrontEnd Dashboard administración de horarios y clases**: Desarrollado con React (empleando React Router) y Tailwind, hosteada en Firebase. Se puede visitar en: [PCEO Dashboard](https://pceo-dashboard.web.app/)
-
-3. **Porfolio Web**: Desarrollado con React y Tailwind, hosteado en Firebase. Se puede visitar en: [Mi Porfolio](https://diego-diaz-mendana.web.app/)
-
----
-
-## 📚 **Formación**
-- Bachillerato cienctífico con honores
-- Cursos de programación en Platzi
-- Doble grado en Ingeniería Informática de Software y Matemáticas (aún en curso).
-
----
-
-## 🌱 **Qué busco**
-Actualmente estoy enfocado en el doble grado aunque lo que más me motiva y me entretiene es el desarrollo web y análisis de datos e IA. Me gusta seguir aprendiendo para poder colaborar en distintos proyectos de código abierto y mejorar mis habilidades
-
----
-
-## 📊 **Estadísticas**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mendana&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendana&layout=compact&theme=radical)
-
-<!-- ![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=Mendana&theme=react-dark) -->
-**My last activity:**
-
-[![Mendaña's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mendana)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📈 **Visitas**
-![Visitas al perfil](https://komarev.com/ghpvc/?username=Mendana&color=blue&style=flat-square)
-
----
-
-¡Gracias por visitar mi perfil!
+```bash
+$ ls -la projects/
+drwxr horarios-hub/  # rust - axum - postgresql - nextjs - gestión de horarios académicos
+```
+```bash
+$ cat contact.txt
+portfolio  > https://diego-diaz-mendana.web.app/
+projects   > https://horariospceo.web.app/ - https://pceo-dashboard.web.app/
+email      > diegodiazmenda@gmail.com
+```

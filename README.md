@@ -23,6 +23,7 @@ ops      = ["docker", "gitlab-ci", "caddy"]
 building = "HorariosHub - Fullstack en rust/axum + nextjs"
 learning = "RAG self-hosted"
 ---
+```
 ```bash
 $ ls -la projects/
 drwxr horarios-hub/  # rust - axum - postgresql - nextjs - gestión de horarios académicos

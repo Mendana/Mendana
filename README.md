@@ -17,7 +17,9 @@ Also      Working by myself
 backend  = ["rust", "java/spring", "python/fastapi"]
 frontend = ["typescript", "react", "next.js", "astro"]
 data     = ["postgresql", "sqlite"]
-ops      = ["docker", "gitlab-ci", "caddy"]
+ops      = ["docker"]
+ia       = ["llamaindex", "langchain"]
+ml       = ["pandas", "numpy", "sklearn", "pytorch", "tensorflow"]
 
 [currently]
 building = "HorariosHub - Fullstack en rust/axum + nextjs"
@@ -25,7 +27,10 @@ learning = "RAG self-hosted"
 ```
 ```bash
 $ ls -la projects/
-drwxr horarios-hub/  # rust - axum - postgresql - nextjs - gestión de horarios académicos
+drwxr horarios-hub/            # rust - axum - postgresql - nextjs - gestión de horarios académicos
+drwxr my-portfolio/            # react - javascript - portfolio web
+drwxr web-trail-valle-arbas/   # astro - web de trail
+drwxr web-casa-rural-arbas/    # astro - web de casa rural
 ```
 ```bash
 $ cat contact.txt
